@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://jetml.com/launch?repo=https:%2F%2Fgithub.com%2Fjetml%2Ftensorflow-rnn-shakespeare.git&name=tensorflow-rnn-shakespeare&server_size=single_gpu&language=python_3.5">   <img src="https://jetml.com/account/assets/jetml-button.png" width="350"/>
+  </a>
+</p>
+
+
 # Code for the Recurrent Neural Network in the presentation "Tensorflow and deep learning - without a PhD, Part 2"
 
 The presentation itself is available here:
